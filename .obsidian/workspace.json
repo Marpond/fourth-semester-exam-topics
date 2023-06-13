@@ -8,87 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4067f9d850daa37e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "3dd1e71b02d40b71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tommy/1. Middleware server with NodeJS written in Typescript - constructing endpoints..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ff6b2f5e7882f6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tommy/2. The NoSQL database systems - MongoDB and Redis..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab803529c1ab9d3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tommy/4. Web Harvesting (web scraping) with python..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fbc470040f17e81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tommy/3. CRUD support with NodeJS and MongoDB..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9b1d9ce02146394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tommy/5. Mobile-Web client in Flutter – the base organization..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6fc92119762e569f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
+                "file": "Frank/2. Describe the publish – subscribe pattern and give example of usage..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
+                "file": "Frank/2. Describe the publish – subscribe pattern and give example of usage..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
+                "file": "Frank/2. Describe the publish – subscribe pattern and give example of usage..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md"
+                "file": "Frank/2. Describe the publish – subscribe pattern and give example of usage..md"
               }
             }
           }
@@ -217,26 +148,26 @@
   },
   "active": "6fc92119762e569f",
   "lastOpenFiles": [
-    "Frank/7. Describe the 7 modes of Vijay Kumar´s innovation process..md",
+    "Frank/1. Explain Data-templates and the DataTemplateSelector in MAUI.md",
+    "Tommy/1. Middleware server with NodeJS written in Typescript - constructing endpoints..md",
+    "Tommy/2. The NoSQL database systems - MongoDB and Redis..md",
+    "Tommy/3. CRUD support with NodeJS and MongoDB..md",
+    "Tommy/4. Web Harvesting (web scraping) with python..md",
+    "Tommy/5. Mobile-Web client in Flutter – the base organization..md",
+    "Tommy/6. Mobile-Web client in Flutter – the widget tree..md",
     "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
+    "Frank/7. Describe the 7 modes of Vijay Kumar´s innovation process..md",
     "Frank/6. Explain the usage of the UX radar based on the UX honeycomb..md",
     "Frank/5. Describe ways to store data in the app client. (Transient and non-transient).md",
     "Frank/4. Describe ways to implement navigation between pages with the MVVM pattern in MAUI..md",
     "Frank/3. Explain communication methods and strategies in MAUI apps, like; SignalR, Web services, polling and long polling..md",
     "Frank/2. Describe the publish – subscribe pattern and give example of usage..md",
-    "Frank/1. Explain Data-templates and the DataTemplateSelector in MAUI.md",
     "Karsten/6. Explain the use of interrupt driven call of a method in Python..md",
     "Karsten/5. Explain the Zigbee protocol..md",
     "Karsten/4. Explain the use of Pulse Width Modulation, PWM..md",
-    "Tommy/6. Mobile-Web client in Flutter – the widget tree..md",
-    "Tommy/5. Mobile-Web client in Flutter – the base organization..md",
     "Karsten/3. Explain Input-output by using GPIO on Raspberry pi..md",
     "Karsten/2. Explain the implementation of Socket on Raspberry pi.md",
     "Karsten/1. Give a big picture of Internet Of Things (IoT)..md",
-    "Tommy/3. CRUD support with NodeJS and MongoDB..md",
-    "Tommy/2. The NoSQL database systems - MongoDB and Redis..md",
-    "Tommy/1. Middleware server with NodeJS written in Typescript - constructing endpoints..md",
-    "Tommy/4. Web Harvesting (web scraping) with python..md",
     "Karsten",
     "Frank",
     "Tommy"
