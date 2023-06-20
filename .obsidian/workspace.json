@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frank/4. Describe ways to implement navigation between pages with the MVVM pattern in MAUI..md",
+                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frank/4. Describe ways to implement navigation between pages with the MVVM pattern in MAUI..md",
+                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frank/4. Describe ways to implement navigation between pages with the MVVM pattern in MAUI..md",
+                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frank/4. Describe ways to implement navigation between pages with the MVVM pattern in MAUI..md"
+                "file": "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md"
               }
             }
           }
@@ -148,26 +148,26 @@
   },
   "active": "6fc92119762e569f",
   "lastOpenFiles": [
-    "Frank/3. Explain communication methods and strategies in MAUI apps, like; SignalR, Web services, polling and long polling..md",
+    "Karsten/5. Explain the Zigbee protocol..md",
+    "Karsten/1. Give a big picture of Internet Of Things (IoT)..md",
     "Frank/2. Describe the publish – subscribe pattern and give example of usage..md",
     "Frank/1. Explain Data-templates and the DataTemplateSelector in MAUI.md",
+    "Karsten/2. Explain the implementation of Socket on Raspberry pi.md",
+    "Frank/6. Explain the usage of the UX radar based on the UX honeycomb..md",
     "Frank/8. What is the purpose of sketches and prototypes according to Buxton. Give examples of both..md",
     "Frank/7. Describe the 7 modes of Vijay Kumar´s innovation process..md",
-    "Frank/6. Explain the usage of the UX radar based on the UX honeycomb..md",
-    "Frank/5. Describe ways to store data in the app client. (Transient and non-transient).md",
     "Frank/4. Describe ways to implement navigation between pages with the MVVM pattern in MAUI..md",
-    "Karsten/1. Give a big picture of Internet Of Things (IoT)..md",
+    "Frank/3. Explain communication methods and strategies in MAUI apps, like; SignalR, Web services, polling and long polling..md",
+    "Tommy/1. Middleware server with NodeJS written in Typescript - constructing endpoints..md",
     "Karsten/6. Explain the use of interrupt driven call of a method in Python..md",
-    "Karsten/5. Explain the Zigbee protocol..md",
     "Karsten/4. Explain the use of Pulse Width Modulation, PWM..md",
     "Karsten/3. Explain Input-output by using GPIO on Raspberry pi..md",
-    "Karsten/2. Explain the implementation of Socket on Raspberry pi.md",
-    "Tommy/6. Mobile-Web client in Flutter – the widget tree..md",
+    "Frank/5. Describe ways to store data in the app client. (Transient and non-transient).md",
     "Tommy/5. Mobile-Web client in Flutter – the base organization..md",
-    "Tommy/4. Web Harvesting (web scraping) with python..md",
-    "Tommy/3. CRUD support with NodeJS and MongoDB..md",
+    "Tommy/6. Mobile-Web client in Flutter – the widget tree..md",
     "Tommy/2. The NoSQL database systems - MongoDB and Redis..md",
-    "Tommy/1. Middleware server with NodeJS written in Typescript - constructing endpoints..md",
+    "Tommy/3. CRUD support with NodeJS and MongoDB..md",
+    "Tommy/4. Web Harvesting (web scraping) with python..md",
     "Pasted image 20230613152945.png",
     "Karsten",
     "Frank",
